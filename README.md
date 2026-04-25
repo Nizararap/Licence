@@ -2,7 +2,7 @@
 
 | Key | Value |
 |---|---|
-| Package | `com.ccompile.lite` |
+| Package | `com.tes.jk` |
 | Version | `1.0` |
 | Min SDK | API 28 |
 | Language | Kotlin |
@@ -21,7 +21,7 @@
 1. Ekstrak ZIP ini
 2. Buka **Android Studio** → `File > Open` → pilih folder `Tes/`
 3. Tunggu Gradle sync selesai
-4. Edit `app/src/main/java/com.ccompile.lite/MainActivity.kt`
+4. Edit `app/src/main/java/com/tes/jk/MainActivity.kt`
 5. Edit layout di `app/src/main/res/layout/activity_main.xml`
 6. Run di emulator atau HP
 
@@ -46,7 +46,7 @@ sebelum deploy ke production.
 ```
 Tes/
 ├── app/src/main/
-│   ├── java/com.ccompile.lite/
+│   ├── java/com/tes/jk/
 │   │   ├── MainActivity.kt
 │   │   ├── MyAdapter.kt
 │   │   ├── ApiClient.kt + ApiService.kt
